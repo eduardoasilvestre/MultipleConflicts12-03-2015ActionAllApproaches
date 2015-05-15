@@ -1,0 +1,13 @@
+To run the algorithm is necessary:
+=>Java 1.7 (compatible) - http://www.oracle.com/us/downloads/index.html
+Main programmin language.
+
+=>Combinatoricslib 2.1 - https://code.google.com/p/combinatoricslib/
+API for generating combinatorial objects.
+
+=>joda-time-2.5 - http://www.joda.org/joda-time/
+API for replacement for the Java date and time classes
+
+It is recommended the utilization of a IDE. The source code was implemented using the Eclipse IDE - https://eclipse.org/
+
+
